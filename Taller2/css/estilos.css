@@ -1,0 +1,98 @@
+body {
+    background-color: white;
+}
+header {
+    display: flex;
+}
+
+.cabeceraPrincipal{
+    background-color: #EEEEEE;
+	width: 25%;
+    font-family: sans-serif;
+    color: black;
+    margin-right: 5px;
+    border-style: solid;
+    text-align: center;
+}
+
+.menu{
+    background-color: #EEEEEE;
+    width: 75%;
+    font-family: sans-serif;
+    color: black;    
+    text-align: right;
+    border-style: solid;
+}
+
+.menuPrincipal{
+    background-color: #EEEEEE;;
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: black;    
+    text-align: center;
+    border-style: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.menu a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+}
+.menuPrincipal a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+}
+.sponsor {
+    text-align: center;
+}
+
+.galeriaPrincipal{
+    background-color: #EEEEEE;
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: black;    
+    text-align: center;
+    border-style: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.noticia1{
+    background-color: #EEEEEE;
+    margin-top: 20px;
+    width: 48%;
+    font-family: sans-serif;
+    color: black;
+    margin-right: 5px;
+    border-style: solid;
+    text-align: center;
+    float: left;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.noticia2{    
+    background-color: #EEEEEE;
+    margin-top: 20px;
+    width: 48%;
+    font-family: sans-serif;
+    color: black;    
+    text-align: center;
+    border-style: solid;
+    float: right;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.piePagina{
+    background-color: #EEEEEE;
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: black;    
+    text-align: center;
+    border-style: solid;
+}
